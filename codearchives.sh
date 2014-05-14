@@ -1,6 +1,6 @@
 workingdir=$(pwd)
 
-# initial grabbing
+# initial grabbing, simply errors if the directory exists so re-running on the same repo does not hurt
 while read repo
 do
 	git clone ${repo} # no quotes here, git needs to see both arguments separatedly ;)
