@@ -6,12 +6,12 @@ cd "${workingdir}"
 while read repo
 do
 	git clone ${repo} # no quotes here, git needs to see both arguments separatedly ;)
-done < ${workingdir}/repos.git
+done < ${scriptdir}/repos.git
 
 while read repo
 do
 	git svn clone ${repo} # no quotes here, git needs to see both arguments separatedly ;)
-done < ${workingdir}/repos.svn
+done < ${scriptdir}/repos.svn
 
 # updating
 cd "${workingdir}"
