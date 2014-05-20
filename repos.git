@@ -1,6 +1,22 @@
 git://disenchant.net/tyrquake disenchant.net:tyrquake
 git://disenchant.net/tyrutils disenchant.net:tyrutils
 git://git.code.sf.net/p/quake/quakeforge git.code.sf.net:quakeforge
+git://gitorious.org/blist/blist gitorious.org:blist:blist
+git://gitorious.org/clean_csqc/cleancsqc gitorious.org:clean_csqc:cleancsqc
+git://gitorious.org/cleanqc/cleanqc gitorious.org:cleanqc:cleanqc
+git://gitorious.org/cleanqc/cleanqc_kditd gitorious.org:cleanqc:cleanqc_kditd
+git://gitorious.org/cleanqc/cleanqc_kditd.git gitorious.org:cleanqc:cleanqc_kditd
+git://gitorious.org/csqc-mapvote/csqc-mapvote gitorious.org:csqc-mapvote:csqc-mapvote
+git://gitorious.org/exitspawn/exitspawn gitorious.org:exitspawn:exitspawn
+git://gitorious.org/hot-or-cold/hot-or-cold gitorious.org:hot-or-cold:hot-or-cold
+git://gitorious.org/hubquake/hubquake gitorious.org:hubquake:hubquake
+git://gitorious.org/kp_ents/kp_ents gitorious.org:kp_ents:kp_ents
+git://gitorious.org/netnames/netnames gitorious.org:netnames:netnames
+git://gitorious.org/ogh/operationgrouphug gitorious.org:ogh:operationgrouphug
+git://gitorious.org/qcclasses/qcclasses gitorious.org:qcclasses:qcclasses
+git://gitorious.org/quakec-v1-01-clean/quakec-v1-01-clean.git gitorious.org:quakec-v1-01-clean:quakec-v1-01-clean
+git://gitorious.org/quakelands/quakelands gitorious.org:quakelands:quakelands
+git://gitorious.org/salvatrix/salvatrix gitorious.org:salvatrix:salvatrix
 git://tunkki.dk/fodquake tunkki.dk:fodquake
 https://github.com/CyanogenMod/android_external_quake.git github.com:CyanogenMod:android_external_quake
 https://github.com/DrLabman/QMB.git github.com:DrLabman:QMB
@@ -36,15 +52,15 @@ https://github.com/hrehfeld/QuakeInjector.git github.com:hrehfeld:QuakeInjector
 https://github.com/id-Software/Quake-Tools.git github.com:id-Software:Quake-Tools
 https://github.com/id-Software/Quake.git github.com:id-Software:Quake
 https://github.com/jasongill/quake1-mods.git github.com:jasongill:quake1-mods
-https://github.com/jite/jquake.git github.com:jite:jquake
-https://github.com/jite/ktx.git github.com:jite:ktx
-https://github.com/jite/mvdsv.git github.com:jite:mvdsv
-https://github.com/jite/qtv.git github.com:jite:qtv
-https://github.com/jite/qwfwd.git github.com:jite:qwfwd
-https://github.com/jogi1/TransparentProxy.git github.com:jogi1:TransparentProxy
-https://github.com/jogi1/mvd_parser_lib.git github.com:jogi1:mvd_parser_lib
-https://github.com/jogi1/pypak.git github.com:jogi1:pypak
-https://github.com/jogi1/qwnet_library.git github.com:jogi1:qwnet_library
+https://github.com/jite/jquake.git
+https://github.com/jite/ktx.git
+https://github.com/jite/mvdsv.git
+https://github.com/jite/qtv.git
+https://github.com/jite/qwfwd.git
+https://github.com/jogi1/TransparentProxy.git
+https://github.com/jogi1/mvd_parser_lib.git
+https://github.com/jogi1/pypak.git
+https://github.com/jogi1/qwnet_library.git
 https://github.com/kduske/TrenchBroom github.com:kduske:TrenchBroom
 https://github.com/klaussilveira/Doodle.git github.com:klaussilveira:Doodle
 https://github.com/klaussilveira/flQuake.git github.com:klaussilveira:flQuake
