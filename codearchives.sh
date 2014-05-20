@@ -1,5 +1,5 @@
 scriptdir=$(pwd)
-workingdir=~/archives/
+workingdir=~/archives
 
 # initial grabbing, simply errors if the directory exists so re-running on the same repo does not hurt
 cd "${workingdir}"
@@ -17,6 +17,8 @@ done < ${scriptdir}/repos.svn
 cd "${workingdir}"
 for dir in */
 do
+	echo "Updating ${dir} ..."
 	cd "${workingdir}/${dir}"
-	git pull -u
+	git pull -u # try git
+	git svn fetch # try svn
 done
