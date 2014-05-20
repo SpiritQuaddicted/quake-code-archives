@@ -36,15 +36,15 @@ https://github.com/hrehfeld/QuakeInjector.git github.com:hrehfeld:QuakeInjector
 https://github.com/id-Software/Quake-Tools.git github.com:id-Software:Quake-Tools
 https://github.com/id-Software/Quake.git github.com:id-Software:Quake
 https://github.com/jasongill/quake1-mods.git github.com:jasongill:quake1-mods
-https://github.com/jite/jquake.git
-https://github.com/jite/ktx.git
-https://github.com/jite/mvdsv.git
-https://github.com/jite/qtv.git
-https://github.com/jite/qwfwd.git
-https://github.com/jogi1/TransparentProxy.git
-https://github.com/jogi1/mvd_parser_lib.git
-https://github.com/jogi1/pypak.git
-https://github.com/jogi1/qwnet_library.git
+https://github.com/jite/jquake.git github.com:jite:jquake
+https://github.com/jite/ktx.git github.com:jite:ktx
+https://github.com/jite/mvdsv.git github.com:jite:mvdsv
+https://github.com/jite/qtv.git github.com:jite:qtv
+https://github.com/jite/qwfwd.git github.com:jite:qwfwd
+https://github.com/jogi1/TransparentProxy.git github.com:jogi1:TransparentProxy
+https://github.com/jogi1/mvd_parser_lib.git github.com:jogi1:mvd_parser_lib
+https://github.com/jogi1/pypak.git github.com:jogi1:pypak
+https://github.com/jogi1/qwnet_library.git github.com:jogi1:qwnet_library
 https://github.com/kduske/TrenchBroom github.com:kduske:TrenchBroom
 https://github.com/klaussilveira/Doodle.git github.com:klaussilveira:Doodle
 https://github.com/klaussilveira/flQuake.git github.com:klaussilveira:flQuake
