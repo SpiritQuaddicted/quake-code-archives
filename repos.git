@@ -44,23 +44,26 @@ https://github.com/ezQuake/ezquake-source.git github.com:ezQuake:ezquake-source
 https://github.com/ezQuake/fbca.git github.com:ezQuake:fbca
 https://github.com/fruitz-of-dojo/Quake.git github.com:fruitz-of-dojo:Quake
 https://github.com/ftrvxmtrx/qc2lib.git github.com:ftrvxmtrx:qc2lib
+https://github.com/fzwoch/bsp2js github.com:fzwoch:bsp2js 
 https://github.com/fzwoch/dat2pak.git github.com:fzwoch:dat2pak
 https://github.com/fzwoch/lmp2wad.git github.com:fzwoch:lmp2wad
+https://github.com/fzwoch/mdl2js.git github.com:fzwoch:mdl2js.git
+https://github.com/fzwoch/mvd_parser_lib.git github.com:fzwoch:mvd_parser_lib.git
 https://github.com/fzwoch/pcx2lmp.git github.com:fzwoch:pcx2lmp
 https://github.com/hifi-unmaintained/openqw.git github.com:hifi-unmaintained:openqw
 https://github.com/hrehfeld/QuakeInjector.git github.com:hrehfeld:QuakeInjector
 https://github.com/id-Software/Quake-Tools.git github.com:id-Software:Quake-Tools
 https://github.com/id-Software/Quake.git github.com:id-Software:Quake
 https://github.com/jasongill/quake1-mods.git github.com:jasongill:quake1-mods
-https://github.com/jite/jquake.git
-https://github.com/jite/ktx.git
-https://github.com/jite/mvdsv.git
-https://github.com/jite/qtv.git
-https://github.com/jite/qwfwd.git
-https://github.com/jogi1/TransparentProxy.git
-https://github.com/jogi1/mvd_parser_lib.git
-https://github.com/jogi1/pypak.git
-https://github.com/jogi1/qwnet_library.git
+https://github.com/jite/jquake.git github.com:jite:jquake
+https://github.com/jite/ktx.git github.com:jite:ktx
+https://github.com/jite/mvdsv.git github.com:jite:mvdsv
+https://github.com/jite/qtv.git github.com:jite:qtv
+https://github.com/jite/qwfwd.git github.com:jite:qwfwd
+https://github.com/jogi1/TransparentProxy.git github.com:jogi1:TransparentProxy
+https://github.com/jogi1/mvd_parser_lib.git github.com:jogi1:mvd_parser_lib
+https://github.com/jogi1/pypak.git github.com:jogi1:pypak
+https://github.com/jogi1/qwnet_library.git github.com:jogi1:qwnet_library
 https://github.com/kduske/TrenchBroom github.com:kduske:TrenchBroom
 https://github.com/klaussilveira/Doodle.git github.com:klaussilveira:Doodle
 https://github.com/klaussilveira/flQuake.git github.com:klaussilveira:flQuake
@@ -75,8 +78,8 @@ https://github.com/neogeographica/expak.git github.com:neogeographica:expak
 https://github.com/phoboslab/Quakespasm-Rift.git github.com:phoboslab:Quakespasm-Rift
 https://github.com/pld-linux/quake.git github.com:pld-linux:quake
 https://github.com/proteal/DOOM-Vis.git github.com:proteal:DOOM-Vis
-https://github.com/revelator/MHDoom.git
-https://github.com/revelator/Revelator-Doom3.git
+https://github.com/revelator/MHDoom.git github.com:revelator:MHDoom
+https://github.com/revelator/Revelator-Doom3.git github.com:revelator:Revelator-Doom3
 https://github.com/shaunlebron/blinky.git github.com:shaunlebron:blinky
 https://github.com/slotzero/runequake.git github.com:slotzero:runequake
 https://github.com/tinydanbo/PerkQuake.git github.com:tinydanbo:PerkQuake
