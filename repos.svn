@@ -2,6 +2,9 @@ svn://svn.code.sf.net/p/fteqw/code/trunk/ svn.code.sf.net:fteqw
 svn://svn.code.sf.net/p/quakespasm/code/ svn.code.sf.net:quakespasm
 svn://svn.code.sf.net/p/quark/svn/ svn.code.sf.net:quark
 svn://svn.code.sf.net/p/zquake/code/ svn.code.sf.net:zquake
+svn://svn.icculus.org/gtkradiant svn.icculus.org:qshed
+svn://svn.icculus.org/gtkradiant-gamepacks svn.icculus.org:gtkradiant-gamepacks
+svn://svn.icculus.org/qshed svn.icculus.org:qshed
 svn://svn.icculus.org/remakequake svn.icculus.org:remakequake
 svn://svn.icculus.org/twilight svn.icculus.org:twilight
 http://nepenthe.googlecode.com/svn/trunk/ googlecode:nepenthe
