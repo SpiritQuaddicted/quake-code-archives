@@ -47,8 +47,8 @@ https://github.com/ezQuake/fbca.git github.com:ezQuake:fbca
 https://github.com/fruitz-of-dojo/Quake.git github.com:fruitz-of-dojo:Quake
 https://github.com/ftrvxmtrx/qc2lib.git github.com:ftrvxmtrx:qc2lib
 https://github.com/fzwoch/bsp2js github.com:fzwoch:bsp2js
-https://github.com/fzwoch/mdl2js.git github.com:fzwoch:mdl2js.git
-https://github.com/fzwoch/mvd_parser_lib.git github.com:fzwoch:mvd_parser_lib.git
+https://github.com/fzwoch/mdl2js.git github.com:fzwoch:mdl2js
+https://github.com/fzwoch/mvd_parser_lib.git github.com:fzwoch:mvd_parser_lib
 https://github.com/hifi-unmaintained/openqw.git github.com:hifi-unmaintained:openqw
 https://github.com/hrehfeld/QuakeInjector.git github.com:hrehfeld:QuakeInjector
 https://github.com/id-Software/Quake-Tools.git github.com:id-Software:Quake-Tools
@@ -92,10 +92,11 @@ https://github.com/Classic-Fortress/client.git github.com:Classic-Fortress:clien
 https://github.com/Classic-Fortress/client-scripts.git github.com:Classic-Fortress:client-scripts
 https://github.com/Classic-Fortress/server-installer.git github.com:Classic-Fortress:server-installer
 https://github.com/Classic-Fortress/server-scripts.git github.com:Classic-Fortress:server-scripts
-https://github.com/Classic-Fortress/server.git github.com:Classic-Fortress:server.git
-https://github.com/OldTimes-Software/OpenKatana.git github.com:OldTimes-Software:OpenKatana.git
-https://github.com/OldTimes-Software/ProjectKatana.git github.com:OldTimes-Software:ProjectKatana.git
-https://github.com/eukos16/VektarQ1.git github.com:eukos16:VektarQ1.git
+https://github.com/Classic-Fortress/server.git github.com:Classic-Fortress:server
+https://github.com/OldTimes-Software/OpenKatana.git github.com:OldTimes-Software:OpenKatana
+https://github.com/OldTimes-Software/ProjectKatana.git github.com:OldTimes-Software:ProjectKatana
+https://github.com/eukos16/VektarQ1.git github.com:eukos16:VektarQ1
 https://github.com/eukos16/LightRP github.com:eukos16:LightRP
 https://github.com/eukos16/qreate-qc github.com:eukos16:qreate-qc
 https://github.com/kzahel/WebQuake-Chrome github.com:kzahel:WebQuake-Chrome
+https://github.com/necros0/ne_modelEditor.git github.com:necros0:ne_modelEditor
