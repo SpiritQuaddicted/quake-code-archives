@@ -1,3 +1,5 @@
+http://bsp-decompiler.googlecode.com/svn/trunk/ googlecode.com:bsp-decompiler-read-only
+http://jbn-bsp-lump-tools.googlecode.com/svn/trunk/ googlecode.com:jbn-bsp-lump-tools-read-only
 http://mancubus.net/svn/hosted/JaDE mancubus.net:svn:hosted:JaDE
 http://mancubus.net/svn/hosted/doomwire mancubus.net:svn:hosted:doomwire
 http://mancubus.net/svn/hosted/eternity mancubus.net:svn:hosted:eternity
@@ -6,15 +8,18 @@ http://mancubus.net/svn/hosted/halif mancubus.net:svn:hosted:halif
 http://mancubus.net/svn/hosted/pydoom mancubus.net:svn:hosted:pydoom
 http://mancubus.net/svn/hosted/slade mancubus.net:svn:hosted:slade
 http://mancubus.net/svn/hosted/winmbf mancubus.net:svn:hosted:winmbf
+http://nepenthe.googlecode.com/svn/trunk/ googlecode:nepenthe
+http://quakeplus.googlecode.com/svn/trunk/ googlecode.com:quakeplus-read-only
+http://realms-of-quake.googlecode.com/svn/trunk/ googlecode.com:realms-of-quake-read-only
 svn://svn.code.sf.net/p/fteqw/code/trunk/ svn.code.sf.net:fteqw
-svn://svn.code.sf.net/p/simplequakelauncher/code/ svn.code.sf.net:simplequakelauncher
 svn://svn.code.sf.net/p/qbism/super8/ svn.code.sf.net:qbism:super8
 svn://svn.code.sf.net/p/quakespasm/code/ svn.code.sf.net:quakespasm
 svn://svn.code.sf.net/p/quark/svn/ svn.code.sf.net:quark
+svn://svn.code.sf.net/p/sharpquake/code/trunk svn.code.sf.net:sharpquake-code
+svn://svn.code.sf.net/p/simplequakelauncher/code/ svn.code.sf.net:simplequakelauncher
 svn://svn.code.sf.net/p/zquake/code/ svn.code.sf.net:zquake
 svn://svn.icculus.org/gtkradiant svn.icculus.org:qshed
 svn://svn.icculus.org/gtkradiant-gamepacks svn.icculus.org:gtkradiant-gamepacks
 svn://svn.icculus.org/qshed svn.icculus.org:qshed
 svn://svn.icculus.org/remakequake svn.icculus.org:remakequake
 svn://svn.icculus.org/twilight svn.icculus.org:twilight
-http://nepenthe.googlecode.com/svn/trunk/ googlecode:nepenthe
