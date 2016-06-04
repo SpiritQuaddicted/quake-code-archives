@@ -19,6 +19,7 @@ git://gitorious.org/quakelands/quakelands gitorious.org:quakelands:quakelands
 git://gitorious.org/salvatrix/salvatrix gitorious.org:salvatrix:salvatrix
 git://tunkki.dk/fodquake tunkki.dk:fodquake
 https://bitbucket.org/ericwa/obj-2-map.git bitbucket.org:ericwa:obj-2-map
+https://bitbucket.org/kzahel/webquake bitbucket.org:kzahel:webquake
 https://bitbucket.org/maraakate/qdos.git bitbucket.org:maraakate:qdos
 https://github.com/7drl/QuakeRL.git github.com:7drl:QuakeRL
 https://github.com/64L/uQuake.git github.com:64L:uQuake
@@ -187,6 +188,7 @@ https://github.com/dualbus/pak-tools.git github.com:dualbus:pak-tools
 https://github.com/duduribeiro/quake_log_parser.git github.com:duduribeiro:quake_log_parser
 https://github.com/dwcullop/PandoraQuake2Bot.git github.com:dwcullop:PandoraQuake2Bot
 https://github.com/dyoung522/QuakeBBS.git github.com:dyoung522:QuakeBBS
+https://github.com/eXistence/fhDOOM.git github.com:eXistence:fhDOOM.git
 https://github.com/efess/servers.quakeone.com.git github.com:efess:servers.quakeone.com
 https://github.com/eggbit/handmadequake_osx.git github.com:eggbit:handmadequake_osx
 https://github.com/elhobbs/spectre3ds.git github.com:elhobbs:spectre3ds
@@ -198,11 +200,14 @@ https://github.com/ericwa/Quakespasm.git github.com:ericwa:Quakespasm
 https://github.com/ericwa/quakespasm-build-scripts.git github.com:ericwa:quakespasm-build-scripts
 https://github.com/ericwa/tyrutils.git github.com:ericwa:tyrutils
 https://github.com/eukos16/Engoo github.com:eukos16:Engoo
+https://github.com/eukos16/LightRP github.com:eukos16:LightRP
 https://github.com/eukos16/LightRP.git github.com:eukos16:LightRP
 https://github.com/eukos16/NGUNIX.git github.com:eukos16:NGUNIX.git
 https://github.com/eukos16/VektarQ1.git github.com:eukos16:VektarQ1
 https://github.com/eukos16/qreate-qc github.com:eukos16:qreate-qc
 https://github.com/eukos16/qreate-qc.git github.com:eukos16:qreate-qc
+https://github.com/eukos16/tga2pal github.com:eukos16:tga2pal
+https://github.com/eukos16/wastes-qc github.com:eukos16:wastes-qc 
 https://github.com/evreqe/quake.git github.com:evreqe:quake
 https://github.com/excessive/iqe.git github.com:excessive:iqe
 https://github.com/excessive/iqm.git github.com:excessive:iqm
@@ -275,6 +280,7 @@ https://github.com/kondrak/quake_bsp_viewer_vr.git github.com:kondrak:quake_bsp_
 https://github.com/kugelrund/LiveSplit.Quake.git github.com:kugelrund:LiveSplit.Quake
 https://github.com/kugelrund/LiveSplit.Quake2.git github.com:kugelrund:LiveSplit.Quake2
 https://github.com/kzahel/WebQuake-Chrome github.com:kzahel:WebQuake-Chrome
+https://github.com/kzahel/WebQuake-Chrome github.com:kzahel:WebQuake-Chrome
 https://github.com/lambdacube3d/lambdacube-quake3.git github.com:lambdacube3d:lambdacube-quake3
 https://github.com/lang7/Quake.git github.com:lang7:Quake
 https://github.com/lantus/sdlquake-libxenon.git github.com:lantus:sdlquake-libxenon
@@ -303,6 +309,7 @@ https://github.com/mikezila/uQuake1.git github.com:mikezila:uQuake1
 https://github.com/miniukof/handmade_quake.git github.com:miniukof:handmade_quake
 https://github.com/mkr3142/QuakeFlash.git github.com:mkr3142:QuakeFlash
 https://github.com/mohannad-abwah/HandmadeQuake.git github.com:mohannad-abwah:HandmadeQuake
+https://github.com/motorsep/StormEngine2.git github.com:motorsep:StormEngine2.git
 https://github.com/msdsgn/qpak.git github.com:msdsgn:qpak
 https://github.com/mwh204/id-quake.x11.git github.com:mwh204:id-quake.x11
 https://github.com/necros0/ne_modelEditor.git github.com:necros0:ne_modelEditor
