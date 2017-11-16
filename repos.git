@@ -105,6 +105,7 @@ https://github.com/OldTimes-Software/KatanaContent.git github.com:OldTimes-Softw
 https://github.com/OldTimes-Software/KatanaEditor.git github.com:OldTimes-Software:KatanaEditor
 https://github.com/OldTimes-Software/KatanaEngine.git github.com:OldTimes-Software:KatanaEngine
 https://github.com/Otero/Quake.git github.com:Otero:Quake
+https://github.com/PJayB/Quake-III-Arena-D3D11.git github.com:PJayB:Quake-III-Arena-D3D11
 https://github.com/Panzerschrek/Q2PR.git github.com:Panzerschrek:Q2PR
 https://github.com/Pavuucek/PACKwcx.git github.com:Pavuucek:PACKwcx
 https://github.com/PowerhouseOfEntertainment/Whitefield.git github.com:PowerhouseOfEntertainment:Whitefield
@@ -171,6 +172,7 @@ https://github.com/cormac-obrien/libmdl.git github.com:cormac-obrien:libmdl
 https://github.com/cpence/phiquake.git github.com:cpence:phiquake
 https://github.com/cpg6/Quakeofhexen.git github.com:cpg6:Quakeofhexen
 https://github.com/cpthooke/GEA_Quake_3.git github.com:cpthooke:GEA_Quake_3
+https://github.com/crashfort/NEAQUAKE.git github.com:crashfort:NEAQUAKE
 https://github.com/csabahruska/gpipe-quake3.git github.com:csabahruska:gpipe-quake3
 https://github.com/d2-d2/qtvcfg.git github.com:d2-d2:qtvcfg
 https://github.com/d2-d2/qw_demo_downloader.git github.com:d2-d2:qw_demo_downloader
@@ -189,6 +191,7 @@ https://github.com/duduribeiro/quake_log_parser.git github.com:duduribeiro:quake
 https://github.com/dwcullop/PandoraQuake2Bot.git github.com:dwcullop:PandoraQuake2Bot
 https://github.com/dyoung522/QuakeBBS.git github.com:dyoung522:QuakeBBS
 https://github.com/eXistence/fhDOOM.git github.com:eXistence:fhDOOM.git
+https://github.com/ec-/Quake3e.git github.com:ec-:Quake3e
 https://github.com/efess/servers.quakeone.com.git github.com:efess:servers.quakeone.com
 https://github.com/eggbit/handmadequake_osx.git github.com:eggbit:handmadequake_osx
 https://github.com/elhobbs/spectre3ds.git github.com:elhobbs:spectre3ds
@@ -239,6 +242,7 @@ https://github.com/glampert/quake2-for-ps2.git github.com:glampert:quake2-for-ps
 https://github.com/graphitemaster/gmqcc.git github.com:graphitemaster:gmqcc
 https://github.com/hansschmucker/QuakeScripts.git github.com:hansschmucker:QuakeScripts
 https://github.com/hifi-unmaintained/openqw.git github.com:hifi-unmaintained:openqw
+https://github.com/hifi/qwsv-lua.git github.com:hifi:qwsv-lua
 https://github.com/hrehfeld/QuakeInjector.git github.com:hrehfeld:QuakeInjector
 https://github.com/id-Software/Quake-Tools.git github.com:id-Software:Quake-Tools
 https://github.com/id-Software/Quake.git github.com:id-Software:Quake
@@ -267,6 +271,7 @@ https://github.com/jogi1/TransparentProxy.git github.com:jogi1:TransparentProxy
 https://github.com/jogi1/mvd_parser_lib.git github.com:jogi1:mvd_parser_lib
 https://github.com/jogi1/pypak.git github.com:jogi1:pypak
 https://github.com/jogi1/qwnet_library.git github.com:jogi1:qwnet_library
+https://github.com/jpcy/ioq3-renderer-bgfx.git github.com:jpcy:ioq3-renderer-bgfx 
 https://github.com/karolczajkowski/exCoop.git github.com:karolczajkowski:exCoop
 https://github.com/kduske/TrenchBroom github.com:kduske:TrenchBroom
 https://github.com/kellyrm/Q1.git github.com:kellyrm:Q1
@@ -357,14 +362,14 @@ https://github.com/slackhead/r0t-dm-vote.git github.com:slackhead:r0t-dm-vote
 https://github.com/slotzero/manquake.git github.com:slotzero:manquake
 https://github.com/slotzero/runequake.git github.com:slotzero:runequake
 https://github.com/sputnikutah/Qrack.git github.com:sputnikutah:Qrack
-https://github.com/st1x51/QuartalQC.git github.com:st1x51:QuartalQC
 https://github.com/st1x51/BaseQC.git github.com:st1x51:BaseQC
+https://github.com/st1x51/CSDMP_QC.git github.com:st1x51:CSDMP_QC
+https://github.com/st1x51/DQuakePlus.git github.com:st1x51:DQuakePlus
+https://github.com/st1x51/Quake-Malice-QuakeC.git github.com:st1x51:Quake-Malice-QuakeC
+https://github.com/st1x51/QuartalEngine.git github.com:st1x51:QuartalEngine
+https://github.com/st1x51/QuartalQC.git github.com:st1x51:QuartalQC
 https://github.com/st1x51/SyntaxHighlighterQC.git github.com:st1x51:SyntaxHighlighterQC
 https://github.com/st1x51/qcframer.git github.com:st1x51:qcframer
-https://github.com/st1x51/QuartalEngine.git github.com:st1x51:QuartalEngine
-https://github.com/st1x51/Quake-Malice-QuakeC.git github.com:st1x51:Quake-Malice-QuakeC
-https://github.com/st1x51/DQuakePlus.git github.com:st1x51:DQuakePlus
-https://github.com/st1x51/CSDMP_QC.git github.com:st1x51:CSDMP_QC
 https://github.com/staudt/funquakedm.git github.com:staudt:funquakedm
 https://github.com/stealthflamez/Quake-Mods.git github.com:stealthflamez:Quake-Mods
 https://github.com/stefanhaustein/quake2-playn-port.git github.com:stefanhaustein:quake2-playn-port
