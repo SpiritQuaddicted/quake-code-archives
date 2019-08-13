@@ -1,5 +1,5 @@
 scriptdir=$(pwd)
-workingdir=/tmp/
+workingdir=~/archives
 
 # initial grabbing, simply errors if the directory exists so re-running on the same repo does not hurt
 cd "${workingdir}"
