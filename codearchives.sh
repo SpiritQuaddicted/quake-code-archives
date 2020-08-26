@@ -1,6 +1,9 @@
 scriptdir=$(pwd)
 workingdir=~/archives
 
+# don't prompt for user/pass, just keep going
+export GIT_TERMINAL_PROMPT=0
+
 # initial grabbing, simply errors if the directory exists so re-running on the same repo does not hurt
 cd "${workingdir}"
 echo "git cloning"
