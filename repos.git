@@ -18,10 +18,11 @@ git://gitorious.org/quakec-v1-01-clean/quakec-v1-01-clean.git gitorious.org:quak
 git://gitorious.org/quakelands/quakelands gitorious.org:quakelands:quakelands
 git://gitorious.org/salvatrix/salvatrix gitorious.org:salvatrix:salvatrix
 git://tunkki.dk/fodquake tunkki.dk:fodquake
+https://bitbucket.org/Izhido/slipnfrag bitbucket.org:Izhido:slipnfrag
 https://bitbucket.org/ericwa/obj-2-map.git bitbucket.org:ericwa:obj-2-map
 https://bitbucket.org/kzahel/webquake bitbucket.org:kzahel:webquake
 https://bitbucket.org/maraakate/qdos.git bitbucket.org:maraakate:qdos
-https://bitbucket.org/Izhido/slipnfrag bitbucket.org:Izhido:slipnfrag
+https://bitbucket.org/shamblernaut/quake-project-booplesnoot.git bitbucket.org:shamblernaut:quake-project-booplesnoot.git 
 https://github.com/7drl/QuakeRL.git github.com:7drl:QuakeRL
 https://github.com/64L/uQuake.git github.com:64L:uQuake
 https://github.com/98jfiore/Quake4RocketMod github.com:98jfiore:Quake4RocketMod
@@ -93,6 +94,7 @@ https://github.com/MaciejSzybiak/q2unity github.com:MaciejSzybiak:q2unity
 https://github.com/MarioSMB/xonotic-quake1.pk3dir.git github.com:MarioSMB:xonotic-quake1.pk3dir
 https://github.com/Mechazawa/HandmadeQuake-Linux.git github.com:Mechazawa:HandmadeQuake-Linux
 https://github.com/Memorix101/MonoGame-MD2-Loader.git github.com:Memorix101:MonoGame-MD2-Loader
+https://github.com/Memorix101/SharpQuake github.com:Memorix101:SharpQuake
 https://github.com/Memorix101/SharpQuake.git github.com:Memorix101:SharpQuake
 https://github.com/MiniAl/Quake.git github.com:MiniAl:Quake
 https://github.com/MinoMino/minqlx.git github.com:MinoMino:minqlx
@@ -138,6 +140,8 @@ https://github.com/RobSis/quake-portal-gun.git github.com:RobSis:quake-portal-gu
 https://github.com/Rojetto/guac.git github.com:Rojetto:guac
 https://github.com/SDLash3D/QuakeRemakeDevkit.git github.com:SDLash3D:QuakeRemakeDevkit
 https://github.com/ShadowIce/rquake.git github.com:ShadowIce:rquake
+https://github.com/Shfty/qodot-extras github.com:Shfty:qodot-extras
+https://github.com/Shfty/qodot-plugin github.com:Shfty:qodot-plugin
 https://github.com/Shpoike/Quakespasm github.com:Shpoike:Quakespasm
 https://github.com/SiPlus/WebQuake.git github.com:SiPlus:WebQuake
 https://github.com/SpiritQuaddicted/Quaddicted-reviews.git github.com:SpiritQuaddicted:Quaddicted-reviews
@@ -161,6 +165,7 @@ https://github.com/TimePath/neoradiant.git github.com:TimePath:neoradiant
 https://github.com/Unvanquished/Chameleon.git github.com:Unvanquished:Chameleon
 https://github.com/VehpuS/SelfMadeQuake.git github.com:VehpuS:SelfMadeQuake
 https://github.com/Warsow/qfusion.git github.com:Warsow:qfusion
+https://github.com/adolfintel/ChadQuake github.com:adolfintel:ChadQuake
 https://github.com/ahefner/sdlquake.git github.com:ahefner:sdlquake
 https://github.com/aidendeom/HandmadeQuake.git github.com:aidendeom:HandmadeQuake
 https://github.com/ajnye/handmade_quake.git github.com:ajnye:handmade_quake
@@ -213,6 +218,7 @@ https://github.com/dmitripot/xatrogue.git github.com:dmitripot:xatrogue
 https://github.com/dnolan/q2-maps.git github.com:dnolan:q2-maps
 https://github.com/dualbus/pak-tools.git github.com:dualbus:pak-tools
 https://github.com/duduribeiro/quake_log_parser.git github.com:duduribeiro:quake_log_parser
+https://github.com/dusty-qw/unezquake github.com:dusty-qw:unezquake
 https://github.com/dwcullop/PandoraQuake2Bot.git github.com:dwcullop:PandoraQuake2Bot
 https://github.com/dyoung522/QuakeBBS.git github.com:dyoung522:QuakeBBS
 https://github.com/eXistence/fhDOOM.git github.com:eXistence:fhDOOM.git
@@ -337,6 +343,8 @@ https://github.com/lambdacube3d/lambdacube-quake3.git github.com:lambdacube3d:la
 https://github.com/lang7/Quake.git github.com:lang7:Quake
 https://github.com/lantus/sdlquake-libxenon.git github.com:lantus:sdlquake-libxenon
 https://github.com/lbsmith/ProQCC.git github.com:lbsmith:ProQCC
+https://github.com/lea2501/quake-random-map-sh github.com:lea2501:quake-random-map-sh
+https://github.com/lea2501/random-quake-map-launcher-go github.com:lea2501:random-quake-map-launcher-go
 https://github.com/leilei-/Engoo.git github.com:leilei-:Engoo
 https://github.com/leilei-/uq github.com:leilei-:uq
 https://github.com/libretro/tyrquake.git github.com:libretro:tyrquake
@@ -384,6 +392,8 @@ https://github.com/nmoyd/quake1-iphone.git github.com:nmoyd:quake1-iphone
 https://github.com/olirehacek/WP8-Quake.git github.com:olirehacek:WP8-Quake
 https://github.com/oliveratgithub/ToeTag github.com:oliveratgithub:ToeTag
 https://github.com/oliveratgithub/ToeTag.git github.com:oliveratgithub:ToeTag
+https://github.com/optimus-code/LibBSP github.com:optimus-code:LibBSP
+https://github.com/optimus-code/SharpQuakeEvolved github.com:optimus-code:SharpQuakeEvolved
 https://github.com/philipbuuck/HandmadeQuake.git github.com:philipbuuck:HandmadeQuake
 https://github.com/philipbuuck/Quake-2-Source-Code-Tutorial.git github.com:philipbuuck:Quake-2-Source-Code-Tutorial
 https://github.com/philipbuuck/Quake-2-VS2013.git github.com:philipbuuck:Quake-2-VS2013
@@ -422,7 +432,9 @@ https://github.com/slackhead/r0t-c00p-vote.git github.com:slackhead:r0t-c00p-vot
 https://github.com/slackhead/r0t-dm-vote.git github.com:slackhead:r0t-dm-vote
 https://github.com/slotzero/manquake.git github.com:slotzero:manquake
 https://github.com/slotzero/runequake.git github.com:slotzero:runequake
+https://github.com/sputnikutah/Qrack github.com:sputnikutah:Qrack
 https://github.com/sputnikutah/Qrack.git github.com:sputnikutah:Qrack
+https://github.com/sputnikutah/crmod github.com:sputnikutah:crmod
 https://github.com/st1x51/BaseQC.git github.com:st1x51:BaseQC
 https://github.com/st1x51/CSDMP_QC.git github.com:st1x51:CSDMP_QC
 https://github.com/st1x51/DQuakePlus.git github.com:st1x51:DQuakePlus
@@ -439,6 +451,7 @@ https://github.com/svanellewee/MoonQuake.git github.com:svanellewee:MoonQuake
 https://github.com/svn2github/quakespasm.git github.com:svn2github:quakespasm
 https://github.com/svn2github/quakespasm2.git github.com:svn2github:quakespasm2
 https://github.com/tastyspleen/TrenchBroom.git github.com:tastyspleen:TrenchBroom
+https://github.com/te4monster/classicgamemodels github.com:te4monster:classicgamemodels
 https://github.com/tectronics/realms-of-quake.git github.com:tectronics:realms-of-quake
 https://github.com/teknoskillz/Creepcam2.git github.com:teknoskillz:Creepcam2
 https://github.com/teknoskillz/CreepcamV1.git github.com:teknoskillz:CreepcamV1
