@@ -20,6 +20,9 @@ git://gitorious.org/salvatrix/salvatrix gitorious.org:salvatrix:salvatrix
 git://tunkki.dk/fodquake tunkki.dk:fodquake
 https://bitbucket.org/Izhido/slipnfrag bitbucket.org:Izhido:slipnfrag
 https://bitbucket.org/ericwa/obj-2-map.git bitbucket.org:ericwa:obj-2-map
+https://bitbucket.org/khreathor/extras_r5 bitbucket.org:khreathor:extras_r5
+https://bitbucket.org/khreathor/mdl-for-blender bitbucket.org:khreathor:mdl-for-blender
+https://bitbucket.org/khreathor/obj-2-map bitbucket.org:khreathor:obj-2-map
 https://bitbucket.org/kzahel/webquake bitbucket.org:kzahel:webquake
 https://bitbucket.org/maraakate/qdos.git bitbucket.org:maraakate:qdos
 https://bitbucket.org/shamblernaut/quake-project-booplesnoot.git bitbucket.org:shamblernaut:quake-project-booplesnoot.git 
@@ -385,6 +388,7 @@ https://github.com/muk0r/qompiler.git github.com:muk0r:qompiler.git
 https://github.com/mwh204/id-quake.x11.git github.com:mwh204:id-quake.x11
 https://github.com/necros0/ne_modelEditor.git github.com:necros0:ne_modelEditor
 https://github.com/necros0/ne_q1CompilingGui.git github.com:necros0:ne_q1CompilingGui
+https://github.com/neumond/blender-md3 github.com:neumond:blender-md3
 https://github.com/neogeographica/expak.git github.com:neogeographica:expak
 https://github.com/neogeographica/quakesounds.git github.com:neogeographica:quakesounds
 https://github.com/nicolasboulenc/WinQuake.git github.com:nicolasboulenc:WinQuake
@@ -482,6 +486,8 @@ https://github.com/tundy/QuakeQueryDll.git github.com:tundy:QuakeQueryDll
 https://github.com/unrealarena/unrealarena.git github.com:unrealarena:unrealarena
 https://github.com/versoftltd/quake-engine github.com:versoftltd:quake-engine
 https://github.com/viciious/noesis_iqe.git github.com:viciious:noesis_iqe
+https://github.com/victorbstan/mark_vi github.com:victorbstan:mark_vi
+https://github.com/victorbstan/menusys github.com:victorbstan:menusys
 https://github.com/victorfeitosa/HCCGUI.git github.com:victorfeitosa:HCCGUI
 https://github.com/victorfeitosa/QTR.git github.com:victorfeitosa:QTR
 https://github.com/victorfeitosa/hexenii_mdl_import-export.git github.com:victorfeitosa:hexenii_mdl_import-export
