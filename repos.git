@@ -18,6 +18,7 @@ git://gitorious.org/quakec-v1-01-clean/quakec-v1-01-clean.git gitorious.org:quak
 git://gitorious.org/quakelands/quakelands gitorious.org:quakelands:quakelands
 git://gitorious.org/salvatrix/salvatrix gitorious.org:salvatrix:salvatrix
 git://tunkki.dk/fodquake tunkki.dk:fodquake
+https://bitbucket.org/A_A_S/cute-injector bitbucket.org:A_A_S:cute-injector
 https://bitbucket.org/Izhido/slipnfrag bitbucket.org:Izhido:slipnfrag
 https://bitbucket.org/ericwa/obj-2-map.git bitbucket.org:ericwa:obj-2-map
 https://bitbucket.org/khreathor/extras_r5 bitbucket.org:khreathor:extras_r5
@@ -35,12 +36,14 @@ https://github.com/4LT/quake-util github.com:4LT:quake-util
 https://github.com/7drl/QuakeRL.git github.com:7drl:QuakeRL
 https://github.com/64L/uQuake.git github.com:64L:uQuake
 https://github.com/98jfiore/Quake4RocketMod github.com:98jfiore:Quake4RocketMod
+https://github.com/589290/webquake-docker github.com:589290:webquake-docker
 https://github.com/AAS/directq.git github.com:AAS:directq
 https://github.com/Aggregates/TK-Quake.git github.com:Aggregates:TK-Quake
 https://github.com/Allobeena/pak.git github.com:Allobeena:pak
 https://github.com/Allobeena/pakqit.git github.com:Allobeena:pakqit
 https://github.com/BarkinMad/HM_Quake.git github.com:BarkinMad:HM_Quake
 https://github.com/Blzut3/Engoo.git github.com:Blzut3:Engoo
+https://github.com/Boondorl/Quake-Reignited github.com:Boondorl:Quake-Reignited
 https://github.com/Bumrang/OpenBSP.git github.com:Bumrang:OpenBSP
 https://github.com/Caresilabs/HandmadeQuakeCPP.git github.com:Caresilabs:HandmadeQuakeCPP
 https://github.com/CelestialDelta/Quake-Remastered.git github.com:CelestialDelta:Quake-Remastered
@@ -91,8 +94,10 @@ https://github.com/Izhido/Quake_For_OSX.git github.com:Izhido:Quake_For_OSX
 https://github.com/Izhido/qrevpak.git github.com:Izhido:qrevpak
 https://github.com/Jason2Brownlee/CleanFixedQuakeC github.com:Jason2Brownlee:CleanFixedQuakeC
 https://github.com/Jason2Brownlee/CustomQuakeTools github.com:Jason2Brownlee:CustomQuakeTools
+https://github.com/Jason2Brownlee/HumanDebrisArchive github.com:Jason2Brownlee:HumanDebrisArchive
 https://github.com/Jason2Brownlee/QuakeBotArchive github.com:Jason2Brownlee:QuakeBotArchive
 https://github.com/Jason2Brownlee/QuakeOfficialArchive github.com:Jason2Brownlee:QuakeOfficialArchive
+https://github.com/JaycieErysdren/QCVM github.com:JaycieErysdren:QCVM
 https://github.com/JoakimSoderberg/bspshow.git github.com:JoakimSoderberg:bspshow
 https://github.com/JoakimSoderberg/mvdparser.git github.com:JoakimSoderberg:mvdparser
 https://github.com/JonFelix/jonf.io-quake.git github.com:JonFelix:jonf.io-quake
@@ -101,6 +106,9 @@ https://github.com/Jukspa/TASQuake github.com:Jukspa:TASQuake
 https://github.com/KEPHIR/alpine-client-quake2.git github.com:KEPHIR:alpine-client-quake2
 https://github.com/KEPHIR/alpine-server-quake2.git github.com:KEPHIR:alpine-server-quake2
 https://github.com/KEPHIR/android-client-quake2.git github.com:KEPHIR:android-client-quake2
+https://github.com/Kartones/quaddicted-random-map github.com:Kartones:quaddicted-random-map
+https://github.com/KillPixelGames/wrath-darkplaces github.com:KillPixelGames:wrath-darkplaces
+https://github.com/KillPixelGames/wrath-qc github.com:KillPixelGames:wrath-qc
 https://github.com/Kobzol/handmade-quake.git github.com:Kobzol:handmade-quake
 https://github.com/Kr1sso/quake1-iphone.git github.com:Kr1sso:quake1-iphone
 https://github.com/KurtLoeffler/Slipgate github.com:KurtLoeffler:Slipgate
@@ -171,6 +179,7 @@ https://github.com/QWTF/client-media.git github.com:QWTF:client-media.git
 https://github.com/QWTF/server.git github.com:QWTF:server.git
 https://github.com/QodotPlugin/qodot-plugin github.com:QodotPlugin:qodot-plugin
 https://github.com/QuakeEngines/Mark_V-clone github.com:QuakeEngines:Mark_V-clone
+https://github.com/QuakeEngines/QuakeEngines.github.io github.com:QuakeEngines:QuakeEngines.github.io
 https://github.com/Quixotic7/Chisel.Import.Quake1 github.com:Quixotic7:Chisel.Import.Quake1
 https://github.com/Quixotic7/RCSGQuake1MapImporter github.com:Quixotic7:RCSGQuake1MapImporter
 https://github.com/RF-Nelson/quake-from-scratch.git github.com:RF-Nelson:quake-from-scratch
@@ -181,6 +190,7 @@ https://github.com/RamblingMadMan/qide github.com:RamblingMadMan:qide
 https://github.com/ReactionQuake3/reaction.git github.com:ReactionQuake3:reaction
 https://github.com/ReevMich/HandmadeQuake.git github.com:ReevMich:HandmadeQuake
 https://github.com/RennyC4/TAoV github.com:RennyC4:TAoV
+https://github.com/RennyC4/TAoV/ github.com:RennyC4:TAoV:
 https://github.com/Rinnegatamante/vitaQuake.git github.com:Rinnegatamante:vitaQuake
 https://github.com/RobSis/quake-portal-gun.git github.com:RobSis:quake-portal-gun
 https://github.com/RobertBeckebans/IcedTech2 github.com:RobertBeckebans:IcedTech2
@@ -248,6 +258,8 @@ https://github.com/angeld29/qw262.git github.com:angeld29:qw262
 https://github.com/atphalix/eviltoys.git github.com:atphalix:eviltoys
 https://github.com/autonomous1/darkplacesrpi.git github.com:autonomous1:darkplacesrpi
 https://github.com/autonomous1/quakelife.git github.com:autonomous1:quakelife
+https://github.com/barryp/q2java github.com:barryp:q2java
+https://github.com/barryp/qwpython github.com:barryp:qwpython
 https://github.com/bazilio-ua/fxhexen2.git github.com:bazilio-ua:fxhexen2
 https://github.com/bazilio-ua/fxquake.git github.com:bazilio-ua:fxquake
 https://github.com/bazilio-ua/q1.configs.git github.com:bazilio-ua:q1.configs
@@ -284,12 +296,15 @@ https://github.com/csabahruska/gpipe-quake3.git github.com:csabahruska:gpipe-qua
 https://github.com/d2-d2/qtvcfg.git github.com:d2-d2:qtvcfg
 https://github.com/d2-d2/qw_demo_downloader.git github.com:d2-d2:qw_demo_downloader
 https://github.com/d2-d2/qw_update_binaries.git github.com:d2-d2:qw_update_binaries
+https://github.com/daftmugi/pak github.com:daftmugi:pak
 https://github.com/danielsmith604/NewDM.git github.com:danielsmith604:NewDM
 https://github.com/danielsmith604/SmashQuake.git github.com:danielsmith604:SmashQuake
 https://github.com/dannyfritz/handemade-quake-js.git github.com:dannyfritz:handemade-quake-js
 https://github.com/davemichael/NaCl-Quake.git github.com:davemichael:NaCl-Quake
+https://github.com/dbircsak/freeze-tag github.com:dbircsak:freeze-tag
 https://github.com/decino/Infighter.git github.com:decino:Infighter
 https://github.com/decino/Q2Infighter github.com:decino:Q2Infighter
+https://github.com/demoth/qoole github.com:demoth:qoole
 https://github.com/dennistreysa/HandmadeQuake.git github.com:dennistreysa:HandmadeQuake
 https://github.com/dfsp-spirit/wal github.com:dfsp-spirit:wal
 https://github.com/dmead/jkaq3.git github.com:dmead:jkaq3
@@ -302,6 +317,7 @@ https://github.com/dumptruckDS/progs_dump_qc github.com:dumptruckDS:progs_dump_q
 https://github.com/dusty-qw/unezquake github.com:dusty-qw:unezquake
 https://github.com/dwcullop/PandoraQuake2Bot.git github.com:dwcullop:PandoraQuake2Bot
 https://github.com/dyoung522/QuakeBBS.git github.com:dyoung522:QuakeBBS
+https://github.com/eGax/language-quakec github.com:eGax:language-quakec
 https://github.com/eXistence/fhDOOM.git github.com:eXistence:fhDOOM.git
 https://github.com/ec-/Quake3e github.com:ec-:Quake3e
 https://github.com/ec-/Quake3e.git github.com:ec-:Quake3e
@@ -373,6 +389,7 @@ https://github.com/glampert/MrQuake2 github.com:glampert:MrQuake2
 https://github.com/glampert/quake2-for-ps2.git github.com:glampert:quake2-for-ps2
 https://github.com/glhrmfrts/q1compile github.com:glhrmfrts:q1compile
 https://github.com/glhrmfrts/zquake github.com:glhrmfrts:zquake
+https://github.com/gongpha/gdQmapbsp github.com:gongpha:gdQmapbsp
 https://github.com/graphitemaster/gmqcc.git github.com:graphitemaster:gmqcc
 https://github.com/hansschmucker/QuakeScripts.git github.com:hansschmucker:QuakeScripts
 https://github.com/heinekev/lion_frikqcc27 github.com:heinekev:lion_frikqcc27
@@ -409,12 +426,14 @@ https://github.com/jite/ktx.git github.com:jite:ktx
 https://github.com/jite/mvdsv.git github.com:jite:mvdsv
 https://github.com/jite/qtv.git github.com:jite:qtv
 https://github.com/jite/qwfwd.git github.com:jite:qwfwd
+https://github.com/jitspoe/godot_bsp_importer github.com:jitspoe:godot_bsp_importer
 https://github.com/jmarshall23/QuakeRTX github.com:jmarshall23:QuakeRTX
 https://github.com/jmickle66666666/qpal github.com:jmickle66666666:qpal
 https://github.com/jogi1/TransparentProxy.git github.com:jogi1:TransparentProxy
 https://github.com/jogi1/mvd_parser_lib.git github.com:jogi1:mvd_parser_lib
 https://github.com/jogi1/pypak.git github.com:jogi1:pypak
 https://github.com/jogi1/qwnet_library.git github.com:jogi1:qwnet_library
+https://github.com/jonathanlinat/quake-leveldesign-starterkit github.com:jonathanlinat:quake-leveldesign-starterkit
 https://github.com/joshuaskelly/game-tools github.com:joshuaskelly:game-tools
 https://github.com/joshuaskelly/io_scene_bsp github.com:joshuaskelly:io_scene_bsp
 https://github.com/joshuaskelly/tmx2map github.com:joshuaskelly:tmx2map
@@ -520,6 +539,7 @@ https://github.com/msdsgn/qpak.git github.com:msdsgn:qpak
 https://github.com/muk0r/ad.fgd github.com:muk0r:ad.fgd
 https://github.com/muk0r/qompiler.git github.com:muk0r:qompiler.git
 https://github.com/mwh204/id-quake.x11.git github.com:mwh204:id-quake.x11
+https://github.com/myria666/qMovementDoc github.com:myria666:qMovementDoc
 https://github.com/necros0/ne_modelEditor.git github.com:necros0:ne_modelEditor
 https://github.com/necros0/ne_q1CompilingGui.git github.com:necros0:ne_q1CompilingGui
 https://github.com/neogeographica/expak.git github.com:neogeographica:expak
@@ -560,6 +580,8 @@ https://github.com/revelator/Revelator-Doom3.git github.com:revelator:Revelator-
 https://github.com/rictorres/quake-ktx-server.git github.com:rictorres:quake-ktx-server
 https://github.com/rictorres/quake-team-fortress-server.git github.com:rictorres:quake-team-fortress-server
 https://github.com/ronsaldo/yaqe.git github.com:ronsaldo:yaqe
+https://github.com/rotorvator/outerscope github.com:rotorvator:outerscope
+https://github.com/rr-/TRCustoms github.com:rr-:TRCustoms
 https://github.com/rtxa/q2togbsp github.com:rtxa:q2togbsp
 https://github.com/rzeka/QLDS-Manager.git github.com:rzeka:QLDS-Manager
 https://github.com/sakridge/quakespasm-ml.git github.com:sakridge:quakespasm-ml
@@ -649,6 +671,8 @@ https://github.com/versoftltd/quake-engine github.com:versoftltd:quake-engine
 https://github.com/viciious/noesis_iqe github.com:viciious:noesis_iqe
 https://github.com/viciious/noesis_iqe.git github.com:viciious:noesis_iqe
 https://github.com/viciious/tochris github.com:viciious:tochris
+https://github.com/victorbstan/gdQmapbsp github.com:victorbstan:gdQmapbsp
+https://github.com/victorbstan/godot_bsp_importer github.com:victorbstan:godot_bsp_importer
 https://github.com/victorbstan/mark_vi github.com:victorbstan:mark_vi
 https://github.com/victorbstan/menusys github.com:victorbstan:menusys
 https://github.com/victorfeitosa/HCCGUI.git github.com:victorfeitosa:HCCGUI
@@ -658,6 +682,7 @@ https://github.com/victorfeitosa/quake-hexen2-mdl-export-import github.com:victo
 https://github.com/vitalibr/logparser-quake.git github.com:vitalibr:logparser-quake
 https://github.com/vncastanheira/HandmadeQuake.git github.com:vncastanheira:HandmadeQuake
 https://github.com/voidhead/quakec.git github.com:voidhead:quakec
+https://github.com/voidstar-dev/softquake-testbed github.com:voidstar-dev:softquake-testbed
 https://github.com/welford/qurp.git github.com:welford:qurp
 https://github.com/wfowler1/LibBSP github.com:wfowler1:LibBSP
 https://github.com/wfowler1/LibBSP.git github.com:wfowler1:LibBSP
