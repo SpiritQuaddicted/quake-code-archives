@@ -10,6 +10,8 @@ Please send me more repository URLs.
 * git (if you are on Debian then also git-svn)
 
 ## Dumps
+- https://archive.org/download/quake-code-archives_dump_20221229/quake-code-archives_dump_20221229.tar.zstd
+- https://archive.org/download/quake-code-archives_dump_20220103/quake-code-archives_dump_20220103.tar.zstd
 - https://archive.org/download/quake-code-archives_dump_20210719/quake-code-archives_dump_20210719.tar.zstd
 - https://archive.org/download/quake-code-archives_dump_20201005/quake-code-archives_dump_20201005.tar.xz
 - https://archive.org/download/quake-code-archives_dump_20190813/quake-code-archives_dump_20190813.tar.xz
