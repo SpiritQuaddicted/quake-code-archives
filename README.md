@@ -10,6 +10,7 @@ Please send me more repository URLs.
 * git (if you are on Debian then also git-svn)
 
 ## Dumps
+- https://archive.org/download/quake-code-archives_dump_20250202/quake-code-archives_dump_20250202.tar.xz
 - https://archive.org/download/quake-code-archives_dump_20231229/quake-code-archives_dump_20231229.tar.zstd
 - https://archive.org/download/quake-code-archives_dump_20221229/quake-code-archives_dump_20221229.tar.zstd
 - https://archive.org/download/quake-code-archives_dump_20220103/quake-code-archives_dump_20220103.tar.zstd
@@ -22,3 +23,4 @@ Please send me more repository URLs.
 ## Notes
 - make a dump: `tar --create --file quake-code-archives_dump_$(date +%Y%m%d).tar.xz --auto-compress --verbose ~/archives/`
 - archive.org upload: `curl --location --progress --header 'x-amz-auto-make-bucket:1'  --header 'x-archive-meta-mediatype:software' --header 'x-archive-meta01-collection:open_source_software' --header 'x-archive-meta-title:Quake Code Archives, 2015-11-29'  --header 'x-archive-meta-creator:Spirit of quaddicted.com'  --header 'x-archive-meta-description:A dump of many git and svn repositories related to Quake gamedev. Made with https://github.com/SpiritQuaddicted/quake-code-archives'  --header 'x-archive-meta-subject:gaming;software;quake;source-code'  --header "authorization: LOW foo:bar"  --upload-file quake-code-archives_dump_20151129.tar.zstd http://s3.us.archive.org/quake-code-archives_dump_20151129/quake-code-archives_dump_20151129.tar.zstd`
+- 2025: xz took 400 minutes for a 55G archive, zstd took 6 minutes for a 81G archive. -> xz is worth it.
