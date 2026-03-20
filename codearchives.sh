@@ -1,3 +1,5 @@
+set -x
+
 scriptdir=$(pwd)
 workingdir=~/archives
 
@@ -9,22 +11,23 @@ cd "${workingdir}"
 echo "git cloning"
 while read repo
 do
-	git clone ${repo//https:\/\//http:\/\/foo:bar@} # no quotes here, git needs to see both arguments separatedly ;)
+	git clone ${repo//https:\/\//http:\/\/foo:bar@} || echo "dir probably already existed (SVN)..." # no quotes here, git needs to see both arguments separatedly ;)
 done < ${scriptdir}/repos.git
 
 echo "git svn cloning"
 while read repo
 do
-	git svn clone ${repo} # no quotes here, git needs to see both arguments separatedly ;)
+	git svn clone ${repo} || echo "dir probably already existed (SVN)..." # no quotes here, git needs to see both arguments separatedly ;)
 done < ${scriptdir}/repos.svn
 
 # updating
+# TODO identify VCS per directory
 cd "${workingdir}"
 echo "git pulling, git svn fetching"
 for dir in */
 do
 	echo "Updating ${dir} ..."
 	cd "${workingdir}/${dir}"
-	git pull -u # try git
-	git svn fetch # try svn
+    git pull || echo "git pull failed"  # try git
+    git svn fetch || echo "svn fetch failed"  # try svn
 done
