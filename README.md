@@ -1,6 +1,9 @@
 quake-code-archives
 ===================
 
+> [!WARNING]
+> This project was abandoned in 03-2026. *You* are invited to pick up the initiative.
+
 Automated archiving of publically available source code repositories of Quake related things.
 
 Please send me more repository URLs.
